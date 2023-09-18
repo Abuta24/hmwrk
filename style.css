@@ -1,0 +1,23 @@
+table,th,td{
+    border: 2px solid black; 
+}
+body{
+    background-color: lightskyblue;
+}
+th{ 
+    background-color: lightblue;
+}
+span{ 
+    background-color: yellow;
+    color: orange;
+}
+.dashed{
+    border: 2px dashed black;
+    background-color: blueviolet;
+}
+.aqua{
+    background-color: aquamarine;
+}
+.red{
+    background-color: red;
+}
